@@ -1,0 +1,46 @@
+body, html {
+    margin: 0 auto;
+}
+
+.color {
+    color: #9C8CD4;
+}
+
+.bg-img-holder {
+    width: 100%;
+    height: 100vh;
+    margin-top: 0;
+    margin-left: 0;
+    background: url("./mob-bg-purple.png");
+    object-fit: fill;
+    background-repeat: no-repeat;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+}
+
+.content-box {
+    display: block;
+    position: absolute;
+    width: 19%;
+    height: 75%;
+    margin-top: 6.5%;
+    margin-left: 3.5%;
+    background-color: #9C8CD4;
+}
+
+.mar-top {
+    margin-top: 100px;
+}
+
+.mar-right {
+    margin-right: 80px;
+}
+
+.mar-bottom {
+    margin-bottom: 80px;
+}
+
+.mar-left {
+    margin-left: 80px;
+}
